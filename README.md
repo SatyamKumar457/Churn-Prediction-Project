@@ -44,16 +44,17 @@ Welcome to the **Churn Prediction Project**! 🚀 This is a full-stack **machine
 
 ---
 
-##  Sample Model Performance Metrics
+##  Model Performance 
 
 **Classification Report**
 
-| Metric     | Score   |
-|------------|---------|
-| Accuracy   |  88%   |
-| Precision  |  87%   |
-| Recall     |  85%   |
-| F1 Score   |  86%   |
+| Model                 | Accuracy|
+|-----------------------|---------|
+| Logistic Regression   |  88%    |
+| KNeighbors            |  88.5%  |
+| SVC                   |  88.5%  |
+| DecisionTree          |  88%    |
+| RandomForest          |  87.5%  |
 
 ***Age and Churn***
 
