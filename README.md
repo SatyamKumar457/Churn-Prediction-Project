@@ -51,17 +51,17 @@ Welcome to the **Churn Prediction Project**! 🚀 This is a full-stack **machine
 | Metric     | Score   |
 |------------|---------|
 | Accuracy   |  88%   |
-| Precision  |  0.87  |
-| Recall     |  0.85  |
-| F1 Score   |  0.86  |
+| Precision  |  87%   |
+| Recall     |  85%   |
+| F1 Score   |  86%   |
 
 **ROC Curve**
 
-![ROC Curve](graphs/roc_curve.png)
+![ROC Curve](Graphs/roc_curve.png)
 
 **Confusion Matrix**
 
-![Confusion Matrix](graphs/confusion_matrix.png)
+![Confusion Matrix](Graphs/confusion_matrix.png)
 
 _These visual aids offer a clear understanding of model strengths—and potential areas for improvement._
 
