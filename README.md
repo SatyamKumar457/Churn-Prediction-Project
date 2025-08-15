@@ -55,13 +55,19 @@ Welcome to the **Churn Prediction Project**! 🚀 This is a full-stack **machine
 | Recall     |  85%   |
 | F1 Score   |  86%   |
 
-**Age and Churn**
+***Age and Churn***
+
+
 ![Age v/s Churn](Graphs/Age_VS_Churn.png)
 
-**Tenure and Chuen**
+***Tenure and Chuen***
+
+
 ![Tenure v/s Churn](Graphs/Tenure_VS_Churn.png)
 
-**Monthly Charges and Churn**
+***Monthly Charges and Churn***
+
+
 ![Monthly Charges v/s Churn](Graphs/Monthly_Charges_VS_Churn.png)
 
 
