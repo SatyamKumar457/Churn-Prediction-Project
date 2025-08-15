@@ -55,21 +55,22 @@ Welcome to the **Churn Prediction Project**! 🚀 This is a full-stack **machine
 | Recall     |  85%   |
 | F1 Score   |  86%   |
 
-**ROC Curve**
+**Age and Churn**
+![Age v/s Churn](Graphs/Age_VS_Churn.png)
 
-![ROC Curve](Graphs/roc_curve.png)
+**Tenure and Chuen**
+![Tenure v/s Churn](Graphs/Tenure_VS_Churn.png)
 
-**Confusion Matrix**
+**Monthly Charges and Churn**
+![Monthly Charges v/s Churn](Graphs/Monthly_Charges_VS_Churn.png)
 
-![Confusion Matrix](Graphs/confusion_matrix.png)
 
-_These visual aids offer a clear understanding of model strengths—and potential areas for improvement._
 
 ---
 
 ##  Business Context & Insights
 
-Churn can significantly impact revenue. According to industry sources, acquiring a new customer costs up to **five times more** than retaining an existing one :contentReference[oaicite:0]{index=0}. To tackle churn effectively:
+Churn can significantly impact revenue. According to industry sources, acquiring a new customer costs up to **five times more** than retaining an existing one. To tackle churn effectively:
 
 1. **Define churn** clearly (e.g., subscription cancellation or inactivity).
 2. **Gather diverse data**: demographics, usage patterns, feedback.
