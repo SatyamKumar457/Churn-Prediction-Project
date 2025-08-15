@@ -56,6 +56,11 @@ Welcome to the **Churn Prediction Project**! 🚀 This is a full-stack **machine
 | DecisionTree          |  88%    |
 | RandomForest          |  87.5%  |
 
+Model Selected : SVC
+
+## Relations
+
+
 ***Age and Churn***
 
 
